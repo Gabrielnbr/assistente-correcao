@@ -1,0 +1,320 @@
+<mxfile host="app.diagrams.net" modified="2023-08-09T20:33:36.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="H9bBaWjkHBclc-ddZ8bj" version="21.6.7" type="github">
+  <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
+    <mxGraphModel dx="866" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="dr49KxV8g7Vcw9dEUzE0-1" target="dr49KxV8g7Vcw9dEUzE0-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="360" />
+              <mxPoint x="300" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="dr49KxV8g7Vcw9dEUzE0-1" target="dr49KxV8g7Vcw9dEUzE0-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="360" />
+              <mxPoint x="300" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-1" value="&lt;b style=&quot;&quot;&gt;git init&lt;/b&gt;&lt;br&gt;Inicia repositório local. Você só precisa dar &lt;b&gt;git init&lt;/b&gt; uma única vez. Não há a menor necessidade de dar &lt;b&gt;git init&lt;/b&gt;&amp;nbsp;várias vezes no projeto." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry y="320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="dr49KxV8g7Vcw9dEUzE0-2" target="dr49KxV8g7Vcw9dEUzE0-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="dr49KxV8g7Vcw9dEUzE0-2" target="dr49KxV8g7Vcw9dEUzE0-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="240" />
+              <mxPoint x="640" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-2" value="&lt;b&gt;remote add &amp;lt;nome_repo&amp;gt; &amp;lt;URL&amp;gt;&lt;/b&gt;&lt;br&gt;Adiciona conexão com repositório remoto" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="314.95" y="-157.75" width="20" height="639.89" as="geometry" />
+        </mxCell>
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="dr49KxV8g7Vcw9dEUzE0-5" target="dr49KxV8g7Vcw9dEUzE0-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-5" value="Inicialização de Repositório e Conexões de Repositório." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="184.95" y="40" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-8" value="&lt;b&gt;remote delete &amp;lt;nome_repo&amp;gt; &amp;lt;URL&amp;gt;&lt;/b&gt;&lt;br&gt;Deleta conexão com repositório remoto" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="320" y="320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="dr49KxV8g7Vcw9dEUzE0-11" target="dr49KxV8g7Vcw9dEUzE0-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="480" />
+              <mxPoint x="640" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-11" value="&lt;b&gt;git clone &amp;lt;URL&amp;gt;&lt;/b&gt;&lt;br&gt;Clora um repositório remoto com todas as configurações." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="320" y="440" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="dr49KxV8g7Vcw9dEUzE0-16" target="6Sw9gsjCaloPhcAIrw92-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-16" value="&lt;b&gt;git pull&lt;/b&gt;&lt;br&gt;Sincroniza o repositório local com o repositório remoto. Recomendado que sempre faça essa ação antes de dar um &lt;b&gt;git push&lt;/b&gt;&amp;nbsp;no final do &lt;b&gt;workflow&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="681.25" y="320" width="278.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="6Sw9gsjCaloPhcAIrw92-1" target="6Sw9gsjCaloPhcAIrw92-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1598.07" y="-792.41" width="20" height="1909.19" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="6Sw9gsjCaloPhcAIrw92-6" target="6Sw9gsjCaloPhcAIrw92-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-6" value="&lt;b&gt;git status&lt;/b&gt;&lt;br&gt;Verifica como o repositório local se encontra perante seus arquivos." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="6Sw9gsjCaloPhcAIrw92-9" target="6Sw9gsjCaloPhcAIrw92-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="6Sw9gsjCaloPhcAIrw92-9" target="6Sw9gsjCaloPhcAIrw92-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-9" value="&lt;b&gt;git restore&lt;br&gt;&lt;/b&gt;Ocorre após o git add e antes do commit&lt;br&gt;não é obrigatório" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="440" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-11" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;git restore&lt;/b&gt;&lt;b&gt;&amp;nbsp;&amp;lt;file&amp;gt;&lt;/b&gt;&lt;br&gt;Restaura a versão do arquivo que estavam para ser commitado" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="560" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-13" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;git restore&lt;/b&gt;&lt;b&gt;&amp;nbsp;--stage&lt;/b&gt;&lt;br&gt;Restaura a versão de todos os arquivos que estavam para ser commitado" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1460" y="560" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="680" as="sourcePoint" />
+            <mxPoint x="650" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="6Sw9gsjCaloPhcAIrw92-17" target="6Sw9gsjCaloPhcAIrw92-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="6Sw9gsjCaloPhcAIrw92-17" target="6Sw9gsjCaloPhcAIrw92-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-17" value="&lt;b&gt;git add&lt;/b&gt; &amp;lt;FILE&amp;gt;&amp;nbsp;&lt;br&gt;Prepara o arquivo &amp;lt;FILE&amp;gt; para ser salvo.&lt;br&gt;&lt;b&gt;git add .&lt;/b&gt;&lt;br&gt;Prepara todos os arquivos para serem salvos" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="6Sw9gsjCaloPhcAIrw92-21" target="6Sw9gsjCaloPhcAIrw92-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="6Sw9gsjCaloPhcAIrw92-21" target="6Sw9gsjCaloPhcAIrw92-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-21" value="&lt;b&gt;git commit -m &quot;txt&quot;&lt;/b&gt;&lt;br&gt;Versiona o arquivo atual e salva-o no repositório." style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-23" value="&lt;b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;git commit -m &quot;txt&quot;&lt;/span&gt;&amp;nbsp;--amend&lt;br&gt;&lt;/b&gt;Versiona o arquivo atual juntando-o ao commit anterior, substituindo o texto do commit anterior e salvando-o no repositório.&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="440" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="6Sw9gsjCaloPhcAIrw92-25" target="6Sw9gsjCaloPhcAIrw92-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="6Sw9gsjCaloPhcAIrw92-25" target="R2i13-WL7xHDJArr6xPu-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-25" value="&lt;b&gt;git push -u &amp;lt;nome_repo&amp;gt; &amp;lt;nome_branch&amp;gt;&lt;/b&gt;&lt;br&gt;faz a atualização entre o repositório remoto e o repositório local, enviando todos os commits especificados pelo&amp;nbsp;&lt;b&gt;&amp;lt;repo&amp;gt;&lt;/b&gt; e &lt;b&gt;&amp;lt;branch&amp;gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1960" y="320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-27" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;git push --all&lt;/b&gt;&lt;br&gt;faz a atualização entre o repositório remoto e o repositório local, enviando todos os commits a todas as &lt;b&gt;&amp;lt;repos&amp;gt;&lt;/b&gt; e todas as &lt;b&gt;&amp;lt;branch&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1960" y="440" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-29" value="Work flow simples" style="whiteSpace=wrap;html=1;align=center;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1465.3200000000002" y="40" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="R2i13-WL7xHDJArr6xPu-10" target="R2i13-WL7xHDJArr6xPu-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-10" value="Trabalhando em equipe. Após o Push o git pode dar um erro informando que os repositórios não estão sincronizados." style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2280" y="320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="R2i13-WL7xHDJArr6xPu-59" target="R2i13-WL7xHDJArr6xPu-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="R2i13-WL7xHDJArr6xPu-59" target="R2i13-WL7xHDJArr6xPu-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="R2i13-WL7xHDJArr6xPu-59" target="R2i13-WL7xHDJArr6xPu-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-59" value="Código Situacional" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="720" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-60" value="1. Verificação" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="R2i13-WL7xHDJArr6xPu-59" vertex="1">
+          <mxGeometry y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-61" value="2. Correção" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="R2i13-WL7xHDJArr6xPu-59" vertex="1">
+          <mxGeometry y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-62" value="3. Branch" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="R2i13-WL7xHDJArr6xPu-59" vertex="1">
+          <mxGeometry y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="R2i13-WL7xHDJArr6xPu-67" target="R2i13-WL7xHDJArr6xPu-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="R2i13-WL7xHDJArr6xPu-67" target="R2i13-WL7xHDJArr6xPu-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="R2i13-WL7xHDJArr6xPu-67" target="R2i13-WL7xHDJArr6xPu-91" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1990" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="R2i13-WL7xHDJArr6xPu-67" target="R2i13-WL7xHDJArr6xPu-92" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1990" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-67" value="3. BRANCH" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1920" y="880" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-68" value="1. Criação" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="R2i13-WL7xHDJArr6xPu-67" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-69" value="2. Alteração" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="R2i13-WL7xHDJArr6xPu-67" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-70" value="3. Exclusão" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="R2i13-WL7xHDJArr6xPu-67" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-71" value="4. Info RL x RR" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="R2i13-WL7xHDJArr6xPu-67" vertex="1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="R2i13-WL7xHDJArr6xPu-75" target="R2i13-WL7xHDJArr6xPu-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="R2i13-WL7xHDJArr6xPu-75" target="R2i13-WL7xHDJArr6xPu-86" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdks2XG2R6fiBanw1oEp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R2i13-WL7xHDJArr6xPu-75" target="cdks2XG2R6fiBanw1oEp-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jHAHVsfEU-BaBnqavnDD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-75" target="cdks2XG2R6fiBanw1oEp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jHAHVsfEU-BaBnqavnDD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-75" target="jHAHVsfEU-BaBnqavnDD-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-75" value="1. Verificação" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="321.25" y="880" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-76" value="1. git remote" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="R2i13-WL7xHDJArr6xPu-75" vertex="1">
+          <mxGeometry y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-77" value="2. git log" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="R2i13-WL7xHDJArr6xPu-75" vertex="1">
+          <mxGeometry y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-78" value="3. git diff" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="R2i13-WL7xHDJArr6xPu-75" vertex="1">
+          <mxGeometry y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cdks2XG2R6fiBanw1oEp-1" value="4. git fetch" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="R2i13-WL7xHDJArr6xPu-75" vertex="1">
+          <mxGeometry y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="R2i13-WL7xHDJArr6xPu-81" target="R2i13-WL7xHDJArr6xPu-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="R2i13-WL7xHDJArr6xPu-81" target="R2i13-WL7xHDJArr6xPu-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jHAHVsfEU-BaBnqavnDD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-81" target="jHAHVsfEU-BaBnqavnDD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-81" value="2. Correção" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="880" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-82" value="1. git rebase" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="R2i13-WL7xHDJArr6xPu-81" vertex="1">
+          <mxGeometry y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-83" value="2. git reset" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="R2i13-WL7xHDJArr6xPu-81" vertex="1">
+          <mxGeometry y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-84" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;git remote&lt;/b&gt;&amp;nbsp;-V&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Verifica todos os repositórios remotos conectados ao repositório local" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry y="915" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-86" value="&lt;b&gt;git diff &amp;lt;commit_antigo&amp;gt; &amp;lt;commit_novo&amp;gt;&lt;/b&gt;&lt;br&gt;Verifica todas as mudanças feitas entre os dois commits" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry y="1080" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-87" value="&lt;b&gt;git rebase -i HEAD~n&lt;/b&gt;&lt;br&gt;O git rebase tem que ter muito cuidado ao ser utilizado, pois ele tem o peder de reestruturar todos os comiits. Você deve saber o que fazer lá dentro." style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="800" y="885" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-88" value="&lt;b&gt;git reset --mixed &amp;lt;commit&amp;gt;&lt;br&gt;Este comando serve para voltar o HEAD para um commit passado. Use com cuidado, mexer na linha do tempo pode causar grandes problemas.&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1279.06" y="885" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-89" value="&lt;b&gt;Criação&lt;/b&gt;&lt;br&gt;&lt;b&gt;git branch &amp;lt;nome_branch&amp;gt;&lt;/b&gt;&lt;br&gt;Cria uma branch&lt;br&gt;&lt;b&gt;git checkout -b &amp;lt;nome_branch&amp;gt;&lt;br&gt;&lt;/b&gt;Cria a branch e já muda para ela" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="915" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-90" value="&lt;b&gt;Info RL x RR&lt;/b&gt;&lt;br&gt;Para aparecer alguma branch você deve fazer um 1º commit&lt;br&gt;&lt;b&gt;git branch&lt;/b&gt;&lt;br&gt;Mostra todas as branchs no repositório local&lt;br&gt;&lt;b&gt;git branch -a&lt;br&gt;&lt;/b&gt;Mostra todas brachs tanto local quanto remoto" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2100" y="892.5" width="280" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-91" value="&lt;b&gt;Alteração&lt;/b&gt;&lt;br&gt;&lt;b&gt;git checkout &amp;lt;nome_branch&amp;gt;&lt;/b&gt;&lt;br&gt;Muda de branch&lt;br&gt;&lt;b&gt;git branch -M &amp;lt;nome_branch&amp;gt;&lt;/b&gt;&lt;br&gt;Renomeia aquela branch&lt;br&gt;&lt;b&gt;git merge &amp;lt;branch_doadora&amp;gt;&lt;/b&gt;&lt;br&gt;Junta 2 branchs, cuidado ao fazer.&lt;br&gt;&lt;b&gt;git merge --abort&lt;br&gt;&lt;/b&gt;Desfaz o merge que estava naquela branch e naquele commit" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="1080" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-92" value="&lt;b&gt;Exclusão&lt;/b&gt;&lt;br&gt;&lt;b&gt;git branch -d &amp;lt;nome_branch&amp;gt;&lt;/b&gt;&lt;br&gt;Para deletar a branch, não pode estar nela, deve se estar em outra. Local&lt;br&gt;&lt;b&gt;git push &amp;lt;repo&amp;gt; --delete &amp;lt;nome_branch&amp;gt;&lt;/b&gt;&lt;br&gt;Deleta no repositório remoto aquela branch" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2100" y="1080" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-93" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ACESSE A DOCUMENTAÇÃO PARA MAOR COMPREENÇÃO DOS COMANDOS, PELO LINK A BAIXO:&lt;br&gt;&lt;br&gt;https://git-scm.com/docs/git/pt_BR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="520" y="40" width="880" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;labelBackgroundColor=none;" parent="1" source="R2i13-WL7xHDJArr6xPu-96" target="dr49KxV8g7Vcw9dEUzE0-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-96" value="Neste caso você terá que resolver o problema de merge. Para isso deve dar um&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;git pull&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;, resolver o&lt;/span&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt; &lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;merge&lt;/b&gt;&amp;nbsp;e voltar ao&amp;nbsp;&lt;b&gt;workflow&lt;/b&gt;.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2280" y="200" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-100" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="680" as="sourcePoint" />
+            <mxPoint x="2560" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-101" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="6Sw9gsjCaloPhcAIrw92-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2560" y="680" as="sourcePoint" />
+            <mxPoint x="2570" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-102" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="680" as="sourcePoint" />
+            <mxPoint y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdks2XG2R6fiBanw1oEp-2" value="&lt;b&gt;git fetch&lt;/b&gt;&lt;br&gt;Atualiza os ponteiros HEAD entre o repositório local e remoto" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="915" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jHAHVsfEU-BaBnqavnDD-6" value="&lt;b&gt;git log --oneline --all --graph&lt;br&gt;&lt;/b&gt;git log em sí não precisa dos parametros&lt;br&gt;1. Onelina: vê todos os commits em 1 linha&lt;br&gt;2. All: vê todas as branchs&lt;br&gt;3. Graph: vê em formato gráfico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1080" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jHAHVsfEU-BaBnqavnDD-7" value="&lt;b&gt;git reset --hard &amp;lt;commit&amp;gt;&lt;br&gt;Esse é foda, pq ele volta o ponteiro deletando todos os commits realizado, esquece. Tome muito cuidado com esse.&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1010" width="280" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

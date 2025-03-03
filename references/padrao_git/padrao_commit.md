@@ -1,5 +1,11 @@
 Aqui mostro quais textos serão utilizados nos commits do Git e qual sua finalidade.
 
+Textos de referência:
+1. https://www.conventionalcommits.org/en/v1.0.0/
+2. https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657
+3. https://github.com/iuricode/padroes-de-commits
+4. https://dev.to/renatoadorno/padroes-de-commits-commit-patterns-41co
+
 | Texto | Finalidade | Exemplo |
 | ----- | ---------- | ------- |
 | file | Atualização  documental que não tem haver diretamente com o código | file: acrescentado o arquivo docs\desing_patter_commits.md |
