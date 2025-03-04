@@ -1,0 +1,102 @@
+1. Contexto
+A SuperStore, uma das maiores redes de supermercados do país, enfrenta
+desafios relacionados à retenção de clientes e à melhoria das suas estratégias de
+vendas. A empresa possui dados ricos sobre seus clientes, pedidos, localizações
+e produtos, mas precisa de uma análise detalhada para tomar decisões baseadas
+em dados.
+O time de gestão identificou três áreas principais para foco:
+1.Retenção de Clientes: Monitorar a interação de clientes ao longo do tempo
+(Análise de Cohort).
+2.Segmentação de Clientes: Identificar grupos específicos de clientes com base
+no comportamento de compra (RFM).
+3.Desempenho de Produtos e Localizações: Avaliar quais produtos e lojas geram
+maior impacto no faturamento.
+2. Objetivo
+Criar um painel interativo e um relatório consolidade que:
+1. Análise de Cohort:
+• Exiba uma tabela de retenção em formato de heatmap.
+• Destaque os cohorts de maior e menor retenção.
+2. Segmentação RFM:
+• Mostre a distribuição de clientes entre os segmentos.
+• Inclua insights sobre as melhores estratégias para cada grupo.
+3. Desempenho de Produtos e Localizações:
+• Liste os produtos mais e menos vendidos.
+• Apresente um ranking das lojas com melhor desempenho.
+4. Principais Descobertas
+Análise de Retenção de Clientes (Cohort)
+A análise de cohort revelou uma retenção de clientes ruim. Ao observar a
+média dos cohorts, identificamos que o mês de Agosto tende a apresentar
+a melhor média de retenção. Além disso, os campos verdes no gráfico
+indicam que, após 11 meses de maturação, há uma taxa de retenção
+significativamente mais elevada em comparação com os demais períodos.
+Esse padrão sugere a possível influência de sazonalidade, que pode estarrelacionada a fatores como promoções, eventos sazonais ou ciclos de
+consumo específicos.
+Análise de Segmentação de Clientes (RFM)
+A segmentação RFM demonstrou que a maior parte dos clientes está
+concentrada nas categorias "Fiéis em Potencial" e "Fiéis", o que indica
+uma base sólida de clientes com alto potencial de engajamento. No
+entanto, observamos uma participação reduzida nos segmentos "Não
+Perder", "Promissores" e "Novos Clientes". Esses segmentos, embora
+menores, representam oportunidades críticas para estratégias de retenção
+e captação. Recomenda-se focar esforços nessas categorias para
+impulsionar o crescimento e a fidelização.
+Análise Regional e de Produtos
+Em uma análise regional, a região Oeste destacou-se como a mais
+lucrativa, além de liderar em número de pedidos únicos. A composição do
+lucro nessa região é impulsionada principalmente pelas categorias
+de Office Supplies (47%) e Technology (45%), que representam a maior
+parte da receita.
+Em uma análise mais detalhada por produto, a
+categoria Technology emergiu como a mais lucrativa em termos gerais.
+Dentro dessa categoria, os três produtos que mais contribuíram para o
+lucro foram impressoras tradicionais. Por outro lado, as impressoras
+3D apresentaram os piores desempenhos, sendo responsáveis pelos
+maiores prejuízos. Esse contraste sugere a necessidade de uma revisão
+estratégica para otimizar o portfólio de produtos, com foco em impulsionar
+os itens mais rentáveis e reavaliar ou reposicionar aqueles com
+desempenho insatisfatório.
+5. Recomendações
+1. Melhorar a Retenção de Clientes
+Foco no Primeiro Mês
+• Implementar um programa de onboarding para engajar novos clientes
+desde o início.
+• Oferecer incentivos no primeiro mês, como descontos exclusivos ou
+brindes, para aumentar a probabilidade de retenção.• Investigar as campanhas ou estratégias aplicadas no cohort
+de Agosto/2014 (que apresentou retenção inicial de 16%) e replicá-las em
+outros meses.
+• Explorar possíveis fatores sazonais que contribuíram para o melhor
+desempenho nesse período e planejar ações semelhantes em períodos
+equivalentes.
+2. Segmentação e Foco nos Clientes-Chave
+Segmentos Subrepresentados (RFM)
+• Criar campanhas personalizadas para reter clientes em risco ("Não
+Perder").
+• Desenvolver estratégias de upsell e cross-sell para clientes "Promissores".
+• Implementar programas de fidelização para "Novos Clientes", como
+programas de pontos ou recompensas.
+• Oferecer benefícios exclusivos, como descontos progressivos ou acesso
+antecipado a novos produtos.
+• Criar campanhas de relacionamento, como e-mails personalizados ou
+eventos para clientes fiéis.
+3. Capitalizar o Desempenho Regional
+Região Oeste
+• Aumentar investimentos em campanhas regionais, destacando as
+categorias de Office Supplies (47%) e Technology (45%), que são as mais
+lucrativas.
+• Explorar oportunidades de expansão ou parcerias locais para fortalecer a
+presença nessa região.
+• Analisar os dados regionais para identificar oportunidades semelhantes em
+outras áreas.
+• Desenvolver estratégias específicas para cada mercado, com base nas
+características e desempenho de cada região.
+4. Otimização do Portfólio de ProdutosFoco em Produtos Lucrativos
+• Priorizar campanhas promocionais e de marketing para a
+categoria Technology, com destaque para impressoras tradicionais.
+• Desenvolver bundles ou pacotes que incluam impressoras tradicionais e
+acessórios relacionados.
+• Realizar uma análise de custo-benefício para determinar se vale a pena
+manter as impressoras 3D no portfólio.
+• Caso decidam permanecer, reposicionar as impressoras 3D com
+campanhas educativas ou direcionadas a nichos específicos.
+
+
